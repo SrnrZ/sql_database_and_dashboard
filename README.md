@@ -20,12 +20,15 @@ Key Focus Areas
 Information captured:
 
 •	Item name, price, quantity
+
 •	Customer details (name, delivery address)
 
 Data supplemented with:
 
 •	Row ID, Order ID
+
 •	Item category and size
+
 •	More detailed customer and address fields (e.g., first/last name, city, zip code)
 
 *Product Costs*
@@ -33,7 +36,9 @@ Data supplemented with:
 Tracks cost levels:
 
 •	Ingredients per pizza
+
 •	Quantity by size
+
 •	Cost per ingredient and pizza
 
 *Staff Data*
@@ -41,6 +46,7 @@ Tracks cost levels:
 Monitors staff working hours and costs:
 
 •	Shift schedules
+
 •	Calculated costs of pizzas (ingredients + labor)
 
 Objective 2: Writing Queries for Dashboard Data
