@@ -42,6 +42,7 @@ Monitors staff working hours and costs:
 - Calculated costs of pizzas (ingredients + labor)
 
 *Table Content and Relations Overview*
+
 ![schema_tables](https://github.com/user-attachments/assets/5f0844e0-a031-49ed-a940-7c0ff65bf9d1)
 
 
