@@ -16,6 +16,7 @@ Key Focus Areas
 **Database and Relations**
 
 *Customer Orders Data*
+
 Information captured:
 - Item name, price, quantity
 - Customer details (name, delivery address)
