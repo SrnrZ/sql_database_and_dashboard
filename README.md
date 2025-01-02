@@ -18,59 +18,50 @@ Key Focus Areas
 *Customer Orders Data*
 
 Information captured:
-
-•	Item name, price, quantity
-•	Customer details (name, delivery address)
+- Item name, price, quantity
+- Customer details (name, delivery address)
 
 Data supplemented with:
-
-•	Row ID, Order ID
-
-•	Item category and size
-
-•	More detailed customer and address fields (e.g., first/last name, city, zip code)
+- Row ID, Order ID
+- Item category and size
+- More detailed customer and address fields (e.g., first/last name, city, zip code)
 
 *Product Costs*
 
 Tracks cost levels:
-
-•	Ingredients per pizza
-
-•	Quantity by size
-
-•	Cost per ingredient and pizza
+- Ingredients per pizza
+- Quantity by size
+- Cost per ingredient and pizza
 
 *Staff Data*
 
 Monitors staff working hours and costs:
-
-•	Shift schedules
-
-•	Calculated costs of pizzas (ingredients + labor)
+- Shift schedules
+- Calculated costs of pizzas (ingredients + labor)
 
 ### Objective 2: Writing Queries for Dashboard Data
 
 **Customer Orders and Sales**
 See also file „pizza_delivery_relations.sql“
 Captures metrics such as:
-•	Total orders, sales, items
-•	Average order value
-•	Sales by category, top-selling items
-•	Orders and sales by hour
-•	Delivery vs. pickup orders
+- Total orders, sales, items
+- Average order value
+- Sales by category, top-selling items
+- Orders and sales by hour
+- Delivery vs. pickup orders
 
 **Product Costs**
 See also files „stock1.sql“ and „stock1.sql“.
 Tracks inventory usage, costs, and reordering needs. Metrics:
-•	Ingredient quantities and costs
-•	Pizza cost breakdown
+- Ingredient quantities and costs
+- Pizza cost breakdown
 
 **Staff Data**
 See also file „staff.sql“.
 Analyzes costs and working hours:
-•	Staff names
-•	Hourly rates
-•	Start/end time
+- Staff names
+- Hourly rates
+- Start/end time
 
 ### Objective 3: Dashboard Design and Implementation 
 **Steps**
