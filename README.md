@@ -11,9 +11,11 @@ Key Focus Areas
 2.	Product Costs
 3.	Staff Management
 
-**Objective 1: Relational Database Design and Data Import**
-*Database and Relations*
-Customer Orders Data
+### Objective 1: Relational Database Design and Data Import
+
+**Database and Relations**
+
+*Customer Orders Data*
 Information captured:
 •	Item name, price, quantity
 •	Customer details (name, delivery address)
@@ -21,12 +23,14 @@ Data supplemented with:
 •	Row ID, Order ID
 •	Item category and size
 •	More detailed customer and address fields (e.g., first/last name, city, zip code)
-Product Costs
+
+*Product Costs*
 Tracks cost levels:
 •	Ingredients per pizza
 •	Quantity by size
 •	Cost per ingredient and pizza
-Staff Data
+
+*Staff Data*
 Monitors staff working hours and costs:
 •	Shift schedules
 •	Calculated costs of pizzas (ingredients + labor)
