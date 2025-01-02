@@ -4,6 +4,8 @@
 ### Project Overview
 This project aims to design and build a custom relational database for Ben's Pizzeria, enabling the business to make informed decisions based on key metrics. Additionally, a dashboard will be created to visualize important information. The database incorporates data generated during a full business day.
 
+Ben's Pizza Dashboard (Public Link): https://public.tableau.com/app/profile/s.ren.gottschalch3322/viz/BensPizzaDashboard/BusinessDashboard#1
+
 ### Data from Client
 10 csv files with information about customers, product prices, ingredients, costs, order time and staff.
 Key Focus Areas
