@@ -48,8 +48,9 @@ Monitors staff working hours and costs:
 
 •	Calculated costs of pizzas (ingredients + labor)
 
-Objective 2: Writing Queries for Dashboard Data
-Customer Orders and Sales
+### Objective 2: Writing Queries for Dashboard Data
+
+**Customer Orders and Sales**
 See also file „pizza_delivery_relations.sql“
 Captures metrics such as:
 •	Total orders, sales, items
@@ -58,27 +59,28 @@ Captures metrics such as:
 •	Orders and sales by hour
 •	Delivery vs. pickup orders
 
-Product Costs
+**Product Costs**
 See also files „stock1.sql“ and „stock1.sql“.
 Tracks inventory usage, costs, and reordering needs. Metrics:
 •	Ingredient quantities and costs
 •	Pizza cost breakdown
 
-Dashboard - Staff Data
+**Staff Data**
 See also file „staff.sql“.
 Analyzes costs and working hours:
 •	Staff names
 •	Hourly rates
 •	Start/end time
 
-Objective 3: Dashboard Design and Implementation 
-Steps:
+### Objective 3: Dashboard Design and Implementation 
+**Steps**
 1.	Connect MySQL with Tableau.
 2.	Conceptualize
 3.	Use created views
 4.	Geocode available addresses
 5.	Create additional parameters using calculated fields.
-Dashboard Features:
+
+**Dashboard Features**
 •	Dashboard 1:
 o	KPI tracker
 o	Overview of total sales and orders by product, category, location and hour
@@ -89,8 +91,8 @@ o	Costs by employee
 •	Inventory management with automated reordering alerts
 •	Staff cost and hours analysis for scheduling efficiency
 
-Conclusion
+### Conclusion
 The dashboards reveal popularity and tendencies within the product suit throughout the day, revealing best-/worst sellers by location and time, enabling improved product targeting as well as inventory and cost management.
 
-Future Improvements
+### Future Improvements
 Collecting more data throughout the year to validate patterns to make even more informed decisions. Fine tuning and enhancing dashboard with additional data, e.g. inventory data, calendar scheduling and alert signals.
