@@ -20,7 +20,6 @@ Key Focus Areas
 Information captured:
 
 •	Item name, price, quantity
-
 •	Customer details (name, delivery address)
 
 Data supplemented with:
