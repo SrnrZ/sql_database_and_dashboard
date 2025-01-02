@@ -94,3 +94,11 @@ The dashboards reveal popularity and tendencies within the product suit througho
 
 ### Future Improvements
 Collecting more data throughout the year to validate patterns to make even more informed decisions. Fine tuning and enhancing dashboard with additional data, e.g. inventory data, calendar scheduling and alert signals.
+
+### Tools Used
+- MySQL Workbench
+- Quick DBD
+- Claude 3.5
+- Tableau
+
+
