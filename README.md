@@ -1,4 +1,4 @@
-# Relational Database and Dashboard for Ben's Pizzeria
+# Relational Database and Business Dashboard
 
 ## Client Project - Ben's Pizzeria
 ### Project Overview
